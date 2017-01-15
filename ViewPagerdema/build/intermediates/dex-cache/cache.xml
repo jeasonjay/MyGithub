@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_785fc6c13d739470bb12a138c9b8e9a73663dfdf\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_c4b5ca8bbec3b08c93eb718924e8325dadc27a7e\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_0c069b345fca1bc852255c1a32817055d0573278\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_f540c7a1990daaeba3baf76c50379aa2f84eb43a\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_302a9a6c489ce9995093b6ad0134049337043666\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="534a465a6aef8bbb8a967bf5c3f43d8cc8d30830">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fa5e24f3317886588db9541d063a9b6fa9c03bf4\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_a4ccec5e1feba519334379656fdb297ab007f250\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_53ddf263608951d07079da86873ba85144d094a0\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_1886c82367c02878a713662e84b7f98074ed941c\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_9f360129510a6262f1db2844c3b78ba539d1f342\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f21ebe608942ff87a2fe8f1953f994beb81ad53a">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b16873f81bfea8eda10cc52ae624cc03a5eaacba\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_1716db6ab21b860c4c364b2ff3a8c0a0b2e7880f\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3f200734174dcfe8dd506177cdfd5dc3529f8e21\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\sdks\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_90747f0fdf3bca8989a65004506979a1083973cd\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b4fb7be0f6be5b0a9fb6cded2740daefe42d37e6\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_38afc523c15f4a0199fc9e89198279198bc6ef78\classes.dex" />
+    </item>
+    <item
+        jar="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="F:\myWork\android\as2\ViewPagerdema\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_445f1b92bc353a0c2822b74f3e846ed52cf0088c\classes.dex" />
+    </item>
+
+</items>
